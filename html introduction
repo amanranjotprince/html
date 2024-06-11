@@ -1,0 +1,8 @@
+#implementation of html tags
+- formating tags like new line,bold,italic,mark,delete underline,horizontal line
+- insert image online and offline mode
+- movement of words or images using marquee tag direction : up,dowm,left,right
+- list : ordered and unordered list
+- paragraph tag, break of paragraph
+- subscripit and supersripit
+- using heading tags
