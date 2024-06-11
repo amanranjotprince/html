@@ -1,0 +1,79 @@
+<html>
+<head>
+<title>
+this is my first web page
+</title>
+</head>
+<body>
+<mark>FORMATING TAGES </mark><br>NEW LINE<br>
+BOLD TAG <strong>bold</strong><br>
+ITALIC TAG <em>italic</em><br>
+MARK TAG <mark>mark</mark><br>
+DELETE TAG <del>delete</del><br>
+UNDERLINE TAG <u>underline</u><br>
+HORIZONTAL LINE <hr>
+<mark>IMAGE INSERT</mark><br> online<br><img src="https://images.ctfassets.net/hrltx12pl8hq/28ECAQiPJZ78hxatLTa7Ts/2f695d869736ae3b0de3e56ceaca3958/free-nature-images.jpg?fit=fill&w=1200&h=630"width="100"height="100"><br>
+offline<br><img src="E:\My`Photo\IMG_1418.jpg"width="100"height="100"><br>
+<mark>MOVEMENT</mark> <marquee direction="right">Left to Right</marquee><br>
+<marquee>Movement</marquee>
+<mark>LIST<br></mark>
+UNORDERED LIST<br>
+<ul>
+<li>apple</li>
+<ul type="square">
+<li>car</li>
+<ul type="circle">
+<li>water</li>
+</ul>
+<li>train</li>
+</ul>
+<li>plum</li>
+</ul>
+ORDERED LIST<br>
+<ol>
+<li>apple</li>
+<ol type="A">
+<li>car</li>
+<ol type="i">
+<li>water</li>
+</ol>
+<li>train</li>
+</ol>
+<li>plum</li>
+</ol>
+<ol type="I">
+<li>box</li>
+<li>jump</li>
+</ol>
+<br>
+<mark>PARAGRAPH TAG</mark><br>
+<p>A paragraph is a self-contained unit of discourse in writing dealing with a particular point or idea. Tscourse in writing dealing with a particular point or idea. Though not required by the orthographic conventions of any language with a writing system, paragraphs are a conventional means of organizing extended segments of prose. A paragraph is a self-contained unit of discourse in writing dealing with a particular point or idea. Though not required by the orthographic conventions of any language with a writing system, paragraphs are a conventional means of organizing extended segments of prose. </p>
+<mark>SUBSCRIPIT</mark><br>
+H<sub>2</sub>O<br>
+<mark>SUPERSCRIPIT</mark><br>
+10<sup>th</sup><br>
+<mark>HEADING TAGS</mark>
+<h1>HI</h1>
+<h2>HI</h2>
+<h3>HI</h3>
+<h4>HI</h4>
+<h5>HI</h5>
+<h6>HI</h6>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
