@@ -1,0 +1,19 @@
+# study of tables
+- HTML tabless is an arrangements of data in rows and columns in tabular forms.
+- there are following types of tags are used:-
+- <table> </table>: it define the structure of the data in rows and columns
+- <tr> </tr>: it show the row in the table
+- <th> </th>: it is a header row which is hold the title or heading
+- <td> </td>: is is a data cell wich hold the data or content
+- also understand the border attribute
+- we can set the height and weidth of the table using height and weidth attribute
+- merge the cells in table we use the colspan and rowspan
+- colspan: to make the cell span more the one column
+- rowspan: to make the cell span more then one row
+- adding background colour in table
+- OVERVIEW of CSS
+- css stand for cascading style sheet
+- there are 3 ways to inert css
+- 1 inline
+- 2 internal 
+- 3 external
